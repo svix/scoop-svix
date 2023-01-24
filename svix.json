@@ -1,19 +1,19 @@
 {
-    "version": "0.17.0",
+    "version": "0.18.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/svix/svix-cli/releases/download/v0.17.0/svix_0.17.0_Windows_i386.tar.gz",
+            "url": "https://github.com/svix/svix-cli/releases/download/v0.18.1/svix_0.18.1_Windows_i386.tar.gz",
             "bin": [
                 "svix.exe"
             ],
-            "hash": "8de41895592290afd71ea65584d7e58d4ff45cb2f57112d794aee4276818325f"
+            "hash": "6b3ac7166cb2fc0383579a0183548dd5f9c31e7878c12f57c20531116cf5a37c"
         },
         "64bit": {
-            "url": "https://github.com/svix/svix-cli/releases/download/v0.17.0/svix_0.17.0_Windows_x86_64.tar.gz",
+            "url": "https://github.com/svix/svix-cli/releases/download/v0.18.1/svix_0.18.1_Windows_x86_64.tar.gz",
             "bin": [
                 "svix.exe"
             ],
-            "hash": "4e6dcd6720c86163413d4feeaddfff1065e46b5131f249da3519efbcc10a00ba"
+            "hash": "b83f33eaf15517df6e62f0d086b1655bfd015505248cfbdf9ae363ae0345c660"
         }
     },
     "homepage": "https://www.svix.com",
